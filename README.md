@@ -13,7 +13,7 @@ Schematic:
 PCB:
 <img width="530" height="826" alt="image" src="https://github.com/user-attachments/assets/c22c9079-0cd5-421a-b982-e422aa8572cc" />
 # Firmware: 
-
+[LINK](https://github.com/Shauryac0/macropad/blob/bc5287b79e7d3655d5561c6c237eded70e5c6865/Firmware/Firmware.py)
 It has four keys:
 (since I wanted a VLC controller I have designed it for that purpose but the buttons can be customized easily)
 
