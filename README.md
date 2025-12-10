@@ -6,6 +6,7 @@ It has four buttons for the actions like Play/Pause, Mute, Volume Up and Volume 
 These button can be customized.
 It connects to the pc using type-C cable.
 # Model:
+<img width="881" height="673" alt="image" src="https://github.com/user-attachments/assets/2ab05b15-691b-4697-9a6f-86aa9adc0045" />
 
 # PCB
 Schematic:
